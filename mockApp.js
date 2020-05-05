@@ -1,4 +1,12 @@
 /*
+Instructions to run this file:
+
+1. Download Node.js
+
+2. Run node mockApp.js in the same directory as this file
+*/
+
+/*
 This code simulates the interaction between a server API endpoint (api()) that returns HTTP status codes, and our code handleHTTPData() that gets those status codes, massages them, and does work on them
 
 Run the code and watch the output, observe the different way API responses are handled. Then...
@@ -75,7 +83,7 @@ function handleHTTPData(data) {
       shutdownApp();
       break;
     default:
-      console.log("Something went wrong: " + data.status + ' ' + data.message);
+      console.log('Something went wrong: ' + data.status + ' ' + data.message);
   }
 } 
 
