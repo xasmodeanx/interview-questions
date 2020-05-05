@@ -1,4 +1,4 @@
-// Write a function called isPrime that returns a boolean based on whether the number is prime or not.
+// Write a function called isPrime that returns a boolean based on whether the input number is prime or not.
 
 // ex.
 // const num = 6;
