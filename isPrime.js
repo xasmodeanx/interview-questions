@@ -1,23 +1,9 @@
-// Write a function that takes a number as input and determines if the number is prime or not
+// Write a function called isPrime that returns a boolean based on whether the number is prime or not.
 
+// ex.
+// const num = 6;
+// isPrime(num) = false;
 
-function isPrime(num) {
-    let factor = 2;
-
-    if (num !== 2 && num % 2 == 0) {
-        return false;
-    }
-
-    while (factor < num) {
-
-        if (num % factor === 0) {
-            return false;
-        }
-
-        factor++;
-    }
-
-    return true;
-}
-
-console.log(isPrime(18));
+// ex
+// const num = 7;
+// isPrime(num) == true;
