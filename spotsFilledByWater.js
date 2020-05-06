@@ -3,7 +3,9 @@ Write a javascript function called spotsFilledByWater that takes as input an arr
 which is described below through an algorithm that you determine and compose.  
 
 Once you have a working solution, prepare a 5-10 minute presentation to demonstrate your method 
-and walk us through how you solved it and your thought process in approaching the scenario.
+and walk us through how you solved it and your thought process in approaching the scenario.  We are not necessarily
+interested in a perfect solution, it is more important for us to see how you thought about and worked the problem!
+There are no wrong answers!
 
 The array is of the form [y0, y1, y2, yn]:
 Each positive y-value element of this array represents the y-height value of a brick(s) stack.
