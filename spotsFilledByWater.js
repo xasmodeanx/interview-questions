@@ -42,7 +42,7 @@ For the purposes of this thought exercise let us imagine that the water is/will
 5. Water will be poured until the structure can no longer hold any more.
 
 Bricks are nonpermeable and also affected by gravity. The "brick" structure is placed on the "floor" which provides a non-permeable
-surface on the bottom of the structure which can support an infinite number of bricks or water units.  Bricks come in positive, whole
+surface on the bottom of the structure which can support an infinite number of bricks or water units.  Bricks come in whole
 units, i.e. you cannot have 1/2 of a brick.
 
 */
